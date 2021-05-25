@@ -2,3 +2,7 @@
 Blog
 
 ## 블로그 테스트
+
+```shell
+brew update
+```
